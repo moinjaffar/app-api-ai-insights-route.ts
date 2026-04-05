@@ -1,0 +1,30 @@
+{
+  "name": "study-insight-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "firebase": "^10.12.0",
+    "framer-motion": "^11.2.10",
+    "date-fns": "^3.6.0",
+    "lucide-react": "^0.383.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/uuid": "^9.0.8",
+    "typescript": "^5",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3"
+  }
+}
